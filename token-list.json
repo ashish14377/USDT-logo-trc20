@@ -1,0 +1,8 @@
+{
+    "name": "USDT",
+    "symbol": "USDT",
+    "contract_address": "TXdEM8ZwX5pLDEXh2YKg3vtFHCnfqiWEjJ",
+    "decimals": 18,
+    "chain": "Tron Nile Testnet",
+    "logo": "https://raw.githubusercontent.com/ashish14377/USDT-logo-trc20/main/logo.png"
+}
